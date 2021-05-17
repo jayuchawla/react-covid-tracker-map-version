@@ -1,0 +1,8 @@
+1. wireframe on draw.io
+2. fiebase make project
+3. npx create-react-app project-name
+3. cleanup
+    a. delete test files, logo
+    b. App.css -> remove everything, * {margin: 0}
+4. structuring project
+5. npm install @material-ui/core
